@@ -25,7 +25,7 @@ Please contact us if you have any questions or concerns.
 I am gratefully thankful to all the supports provided by Okinawa Institute of Science and Technology Graduate School (OIST), Okinawa, Japan. I would like to thank to Thomás Fogarty, Thomas Busch for inspiring discussion and unlimited guidance over the area of ultra-cold quantum gases. 
 
 # The program uses the external libraries:
-1. Sidje, R. B. (1998). Expokit: A software package for computing matrix exponentials. ACM Transactions on Mathematical Software (TOMS), 24(1), 130-156. Available at https://www.maths.uq.edu.au/expokit/
+1. Sidje, R. B. (1998). Expokit: A software package for computing matrix exponentials. ACM Transactions on Mathematical Software (TOMS), 24(1), 130-156. The code is distributed at https://www.maths.uq.edu.au/expokit/
 
 2. Zuxin Jin, davidson.m (https://www.mathworks.com/matlabcentral/fileexchange/71201-davidson), MATLAB Central File Exchange.
 
