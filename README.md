@@ -15,7 +15,7 @@ Tran Duong Anh-Tai
 Mathias Mikkelsen
 
 # Purpose
-TDED-O is a MATLAB-based package for the many-body dynamics of ultracold quantum gases. It is implemented an improved Exact Diagonalization algorithm to solve the many-body Schrodinger equation for indistinguishable particles. The current version is capable of solving two-component ultra-cold quantum gases interacting via the contact interaction and confined in any one-dimensional trapping geometry. Especially, when particles are confined harmonically, the effective-interaction approach is employed for efficiently computing both intra- and inter-component interactions. The goal of the program is to make everyone, especially undergraduates who are interested in ultracold atomic physics, accessible to quantum dynamics of indistinguishable partis.
+TDED-O is a MATLAB-based package for the many-body dynamics of ultracold quantum gases. It is implemented an improved Exact Diagonalization algorithm to solve the many-body Schrodinger equation for indistinguishable particles. The current version is capable of solving two-component ultra-cold quantum gases interacting via the contact interaction and confined in any one-dimensional trapping geometry. Especially, when particles are confined harmonically, the effective-interaction approach is employed for efficiently computing both intra- and inter-component interactions. The goal of the program is to make everyone, especially undergraduates who are interested in ultracold atomic physics, accessible to quantum dynamics of indistinguishable particles.
 
 # Contact 
 At the moment, to have access to the TDED-O package with the examples in it, please do not hestistate to send us a message via the email tai.tran@oist.jp
